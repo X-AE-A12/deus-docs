@@ -9,7 +9,7 @@ require("dotenv").config()
 module.exports = {
   title: 'DEUS Wiki',
   tagline: 'DEUS.finance documentation.',
-  url: 'https://deus.finance',
+  url: 'https://clever-thompson-04bc0e.netlify.app/',
   baseUrl: '/',
   favicon: '/favicon.ico',
   organizationName: 'deusfinance', // Usually your GitHub org/user name.
